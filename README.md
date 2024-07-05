@@ -1,9 +1,10 @@
 # 🤖 NLP Chatbot Using Cosine Similarity
 
 Welcome to the **NLP Chatbot Project**! This is a first  project demonstrates how to create a simple chatbot using **cosine similarity** for question answering.
+<div style="text-align: center;">
+  <img src="https://github.com/ParimalA24-DS/DATA-SCIENCEPROJECT24/blob/main/1.NLPPROJECTS/NLPIMAGES/chatbot2.gif" width="300" alt="Chatbot Image 1">
+</div>
 
-![Chatbot Image 1](path/to/your/image1.png)
-![Chatbot Image 2](path/to/your/image2.png)
 ## 🚀 Project Overview
 
 - **Purpose:** A chatbot that matches user queries to predefined questions and returns the corresponding answers.
